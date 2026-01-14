@@ -1,0 +1,16 @@
+{
+  "title": "shinpachi Widgets",
+  "description": "Custom Forward Widgets by shinpachi",
+  "icon": "https://i.postimg.cc/x1rXXpS5/Screenshot-2026-01-13-at-8-35-18-PM.png",
+  "widgets": [
+    {
+      "id": "shinpachi.mdblist",
+      "title": "MDbList",
+      "description": "Browse movies and TV shows from MDbList",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "shinpachi",
+      "url": "https://raw.githubusercontent.com/yfarook/forward-widgets/refs/heads/main/mdblist-widget.js"
+    }
+  ]
+}
